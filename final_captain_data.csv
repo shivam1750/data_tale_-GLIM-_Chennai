@@ -1,0 +1,123 @@
+Player_Id,Player_Name,Player_team,Season_year,Country_Name,man_of_the_matches,total_wins_as_captain
+6,R Dravid,Royal Challengers Bangalore,2008,Indian,0,4
+1,SC Ganguly,Kolkata Knight Riders,2008,Indian,2,6
+27,Yuvraj Singh,Kings XI Punjab,2008,Indian,0,10
+20,MS Dhoni,Chennai Super Kings,2008,Indian,2,9
+41,V Sehwag,Delhi Daredevils,2008,Indian,2,7
+38,SK Warne,Rajasthan Royals,2008,Abroad,0,13
+50,Harbhajan Singh,Mumbai Indians,2008,Indian,0,0
+55,VVS Laxman,Deccan Chargers,2008,Indian,0,1
+49,SM Pollock,Mumbai Indians,2008,Abroad,1,3
+53,AC Gilchrist,Deccan Chargers,2008,Abroad,1,1
+133,SR Tendulkar,Mumbai Indians,2008,Indian,0,4
+32,SR Watson,Rajasthan Royals,2008,Abroad,0,0
+20,MS Dhoni,Chennai Super Kings,2009,Indian,1,8
+133,SR Tendulkar,Mumbai Indians,2009,Indian,2,5
+38,SK Warne,Rajasthan Royals,2009,Abroad,1,6
+158,KP Pietersen,Royal Challengers Bangalore,2009,Abroad,0,2
+27,Yuvraj Singh,Kings XI Punjab,2009,Indian,2,7
+41,V Sehwag,Delhi Daredevils,2009,Indian,1,7
+53,AC Gilchrist,Deccan Chargers,2009,Abroad,2,9
+2,BB McCullum,Kolkata Knight Riders,2009,Abroad,0,3
+124,A Kumble,Royal Challengers Bangalore,2009,Indian,1,7
+40,G Gambhir,Delhi Daredevils,2009,Indian,1,3
+53,AC Gilchrist,Deccan Chargers,2010,Abroad,0,8
+1,SC Ganguly,Kolkata Knight Riders,2010,Indian,2,7
+133,SR Tendulkar,Mumbai Indians,2010,Indian,4,11
+38,SK Warne,Rajasthan Royals,2010,Abroad,1,6
+26,KC Sangakkara,Kings XI Punjab,2010,Abroad,1,4
+40,G Gambhir,Delhi Daredevils,2010,Indian,2,6
+124,A Kumble,Royal Challengers Bangalore,2010,Indian,1,8
+20,MS Dhoni,Chennai Super Kings,2010,Indian,2,8
+88,KD Karthik,Delhi Daredevils,2010,Indian,0,1
+21,SK Raina,Chennai Super Kings,2010,Indian,0,1
+64,DPMD Jayawardene,Kings XI Punjab,2010,Abroad,0,0
+71,DJ Bravo,Mumbai Indians,2010,Abroad,0,0
+40,G Gambhir,Kolkata Knight Riders,2011,Indian,1,8
+20,MS Dhoni,Chennai Super Kings,2011,Indian,1,11
+38,SK Warne,Rajasthan Royals,2011,Abroad,2,6
+26,KC Sangakkara,Deccan Chargers,2011,Abroad,0,5
+175,DL Vettori,Royal Challengers Bangalore,2011,Abroad,0,8
+64,DPMD Jayawardene,Kochi Tuskers Kerala,2011,Abroad,1,6
+133,SR Tendulkar,Mumbai Indians,2011,Indian,1,10
+41,V Sehwag,Delhi Daredevils,2011,Indian,2,4
+53,AC Gilchrist,Kings XI Punjab,2011,Abroad,1,7
+27,Yuvraj Singh,Pune Warriors,2011,Indian,1,4
+8,V Kohli,Royal Challengers Bangalore,2011,Indian,0,2
+25,JR Hopes,Delhi Daredevils,2011,Abroad,0,0
+17,PA Patel,Kochi Tuskers Kerala,2011,Indian,0,0
+10,CL White,Deccan Chargers,2011,Abroad,0,1
+50,Harbhajan Singh,Mumbai Indians,2012,Indian,0,10
+20,MS Dhoni,Chennai Super Kings,2012,Indian,1,10
+40,G Gambhir,Kolkata Knight Riders,2012,Indian,3,12
+41,V Sehwag,Delhi Daredevils,2012,Indian,3,10
+1,SC Ganguly,Pune Warriors,2012,Indian,1,4
+53,AC Gilchrist,Kings XI Punjab,2012,Abroad,1,3
+6,R Dravid,Rajasthan Royals,2012,Indian,0,7
+175,DL Vettori,Royal Challengers Bangalore,2012,Abroad,0,4
+10,CL White,Deccan Chargers,2012,Abroad,0,1
+26,KC Sangakkara,Deccan Chargers,2012,Abroad,1,3
+4,DJ Hussey,Kings XI Punjab,2012,Abroad,1,5
+8,V Kohli,Royal Challengers Bangalore,2012,Indian,0,4
+306,SPD Smith,Pune Warriors,2012,Indian,0,0
+64,DPMD Jayawardene,Delhi Daredevils,2012,Abroad,0,1
+40,G Gambhir,Kolkata Knight Riders,2013,Indian,2,6
+64,DPMD Jayawardene,Delhi Daredevils,2013,Abroad,0,3
+8,V Kohli,Royal Challengers Bangalore,2013,Indian,3,9
+3,RT Ponting,Mumbai Indians,2013,Abroad,0,3
+26,KC Sangakkara,Sunrisers Hyderabad,2013,Abroad,0,5
+191,AD Mathews,Pune Warriors,2013,Abroad,0,1
+6,R Dravid,Rajasthan Royals,2013,Indian,1,11
+20,MS Dhoni,Chennai Super Kings,2013,Indian,3,12
+53,AC Gilchrist,Kings XI Punjab,2013,Abroad,1,7
+52,LRPL Taylor,Pune Warriors,2013,Abroad,0,1
+10,CL White,Sunrisers Hyderabad,2013,Abroad,0,5
+254,AJ Finch,Pune Warriors,2013,Abroad,0,2
+57,RG Sharma,Mumbai Indians,2013,Indian,1,10
+4,DJ Hussey,Kings XI Punjab,2013,Abroad,0,1
+187,DA Warner,Delhi Daredevils,2013,Abroad,0,0
+57,RG Sharma,Mumbai Indians,2014,Indian,1,7
+40,G Gambhir,Kolkata Knight Riders,2014,Indian,2,11
+88,KD Karthik,Delhi Daredevils,2014,Indian,0,1
+8,V Kohli,Royal Challengers Bangalore,2014,Indian,0,5
+20,MS Dhoni,Chennai Super Kings,2014,Indian,1,10
+197,GJ Bailey,Kings XI Punjab,2014,Abroad,0,12
+42,S Dhawan,Sunrisers Hyderabad,2014,Indian,0,4
+32,SR Watson,Rajasthan Royals,2014,Abroad,0,6
+158,KP Pietersen,Delhi Daredevils,2014,Abroad,0,1
+306,SPD Smith,Rajasthan Royals,2014,Indian,0,1
+362,DJG Sammy,Sunrisers Hyderabad,2014,Abroad,0,2
+57,RG Sharma,Mumbai Indians,2015,Indian,1,10
+40,G Gambhir,Kolkata Knight Riders,2015,Indian,0,7
+154,JP Duminy,Delhi Daredevils,2015,Abroad,1,5
+20,MS Dhoni,Chennai Super Kings,2015,Indian,0,10
+306,SPD Smith,Rajasthan Royals,2015,Indian,1,5
+197,GJ Bailey,Kings XI Punjab,2015,Abroad,1,2
+187,DA Warner,Sunrisers Hyderabad,2015,Abroad,4,7
+8,V Kohli,Royal Challengers Bangalore,2015,Indian,1,8
+32,SR Watson,Rajasthan Royals,2015,Abroad,0,2
+41,V Sehwag,Kings XI Punjab,2015,Indian,0,1
+57,RG Sharma,Mumbai Indians,2016,Indian,4,7
+20,MS Dhoni,Rising Pune Supergiants,2016,Indian,1,5
+15,Z Khan,Delhi Daredevils,2016,Indian,0,6
+40,G Gambhir,Kolkata Knight Riders,2016,Indian,1,8
+21,SK Raina,Gujarat Lions,2016,Indian,1,9
+320,DA Miller,Kings XI Punjab,2016,Abroad,0,1
+8,V Kohli,Royal Challengers Bangalore,2016,Indian,5,9
+187,DA Warner,Sunrisers Hyderabad,2016,Abroad,3,11
+185,M Vijay,Kings XI Punjab,2016,Indian,0,3
+154,JP Duminy,Delhi Daredevils,2016,Abroad,0,1
+2,BB McCullum,Gujarat Lions,2016,Abroad,0,0
+32,SR Watson,Royal Challengers Bangalore,2017,Abroad,0,1
+187,DA Warner,Sunrisers Hyderabad,2017,Abroad,1,8
+57,RG Sharma,Mumbai Indians,2017,Indian,1,11
+306,SPD Smith,Rising Pune Supergiants,2017,Indian,1,10
+21,SK Raina,Gujarat Lions,2017,Indian,1,4
+40,G Gambhir,Kolkata Knight Riders,2017,Indian,1,9
+305,GJ Maxwell,Kings XI Punjab,2017,Abroad,1,6
+15,Z Khan,Delhi Daredevils,2017,Indian,0,4
+85,AM Rahane,Rising Pune Supergiants,2017,Indian,0,0
+8,V Kohli,Royal Challengers Bangalore,2017,Indian,0,2
+305,GJ Maxwell,kings XI Punjab,2017,Abroad,0,1
+339,KK Nair,Delhi Daredevils,2017,Indian,0,2
+187,DA Warner,sunrisers Hyderabad,2017,Abroad,0,0
